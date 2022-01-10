@@ -1,4 +1,4 @@
-date,msl_pressure_hpa,max_temp_degC,min_temp_degC,mean_temp_degC,rh_pct,mean_wind_dir_deg,mean_wind_spd_kts,max_wind_dir_deg,max_wind_spd_kts,rainfall_mm,rain,sunshine_hrs,cloud_cover
+date,msl_pressure_hpa,max_temp_degC,min_temp_degC,mean_temp_degC,rh_pct,mean_wind_dir,mean_wind_spd_kts,max_wind_dir,max_wind_spd_kts,rainfall_mm,rain,sunshine_hrs,cloud_cover
 6/1/1991,1004.1,29.4,23.4,26.3,91,WNW,45,WNW,64,65,yes,,8
 6/2/1991,1003.9,29.2,25.4,27.8,89,WNW,51,NW,62,9.9,yes,,8
 6/3/1991,1005.1,29.6,26,28.8,80,WNW,50,NNW,76,4.7,yes,,7
